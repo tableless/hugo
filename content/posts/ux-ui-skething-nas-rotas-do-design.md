@@ -4,6 +4,7 @@ authors: Igor Giamoniano
 type: post
 date: 2021-05-25
 excerpt: 'Sobre a área de design com foco em suas terminologia no passado e no presente'
+image: https://i.imgur.com/mmGXgbl.png
 categories:
   - Design
 tags:
