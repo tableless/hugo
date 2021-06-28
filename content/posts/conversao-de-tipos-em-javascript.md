@@ -203,7 +203,7 @@ Até a próxima.
 
 Este post foi originalmente postado em meu blog, no dia 12 de junho de 2016, no link abaixo:
   
-<a href="https://blog.gabsprates.com/2016/07/12/conversao-de-tipos-em-js.html" target="_blank">https://blog.gabsprates.com/2016/07/12/conversao-de-tipos-em-js.html</a>
+<a href="http://gabrielprates.com/2016/07/12/conversao-de-tipos-em-js.html" target="_blank">http://gabrielprates.com/2016/07/12/conversao-de-tipos-em-js.html</a>
 
  [1]: https://www.ecma-international.org/ecma-262/6.0/index.html#sec-type-conversion
  [2]: https://www.ecma-international.org/ecma-262/6.0/index.html
